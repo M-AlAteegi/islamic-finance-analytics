@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammed Al-Ateegi**
 - GitHub: [@M-AlAteegi](https://github.com/M-AlAteegi)
-- LinkedIn: [Mohammed Al-Ateegi]([https://www.linkedin.com/in/mohammed-al-ateegi](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/)
+- LinkedIn: [Mohammed Al-Ateegi](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/))
 
 ## 🤝 Contributing
 
